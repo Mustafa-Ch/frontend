@@ -12,7 +12,7 @@ import {
   CommandInput,
   CommandItem,
 } from "@/components/ui/command";
-import { CheckIcon, ChevronDown } from "lucide-react"; // Replaced XCircle with ChevronDown
+import { CheckIcon, ChevronDown } from "lucide-react";
 
 
 interface MultiSelectProps {
